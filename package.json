@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "description": "file explorer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "reza semyari",
+  "license": "ISC"
+}
